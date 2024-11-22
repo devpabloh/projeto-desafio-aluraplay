@@ -90,6 +90,27 @@
       "url": "https://www.youtube.com/embed/-61pNJVWOxI",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 13
+    },
+    {
+      "titulo": "ChatGPT e Engenharia de Prompt: Técnicas para o Prompt Perfeito",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=NsXfldreSPQ",
+      "imagem": "https://media.licdn.com/dms/image/v2/D4D03AQHaxn6Ig1Q1qQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713286349284?e=1737590400&v=beta&t=ie_GI2GUhRtXAKwgF5F4bXtj2zHCDABfbmudjgxMQSE",
+      "id": 14
+    },
+    {
+      "titulo": "Acessibilidade Web com Charles Assunção ",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=gnO_6NDfQHI",
+      "imagem": "https://media.licdn.com/dms/image/v2/D4D03AQHaxn6Ig1Q1qQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713286349284?e=1737590400&v=beta&t=ie_GI2GUhRtXAKwgF5F4bXtj2zHCDABfbmudjgxMQSE",
+      "id": 15
+    },
+    {
+      "titulo": "ChatGPT e Engenharia de Prompt: Técnicas para o Prompt Perfeito",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=gnO_6NDfQHI",
+      "imagem": "https://media.licdn.com/dms/image/v2/D4D03AQHaxn6Ig1Q1qQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713286349284?e=1737590400&v=beta&t=ie_GI2GUhRtXAKwgF5F4bXtj2zHCDABfbmudjgxMQSE",
+      "id": 16
     }
   ]
 }
